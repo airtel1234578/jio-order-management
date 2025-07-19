@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 10
 
-=======
-addition
->>>>>>> 5352281 (second commit)
